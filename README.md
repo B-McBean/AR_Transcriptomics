@@ -1,0 +1,1 @@
+The file in this repository was used to conduct differential gene expression analysis. These differentially expressed genes were then fed into iPathwayGuide (Advaita Bioinformatics). The manuscript where this data will be published is currently under review. 
